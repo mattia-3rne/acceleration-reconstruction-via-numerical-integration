@@ -40,7 +40,7 @@ Since this involves integrating time-series data, we track the kinematic state e
     jupyter notebook
     ```
 
-2.  Open the main notebook file (`Acceleration_Reconstruction.ipynb`).
+2.  Open the main notebook file (`main.ipynb`).
 
 3.  **Run All Cells**:
     The notebook is self-contained. It will:
