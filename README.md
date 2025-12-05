@@ -24,7 +24,7 @@ Since this involves integrating time-series data, we track the kinematic state e
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone https://github.com/mattia-3rne/Acceleration-Reconstruction-via-Numerical-Integration.git
+    git clone https://github.com/mattia-3rne/acceleration-reconstruction-via-numerical-integration.git
     ```
 
 2.  **Install dependencies**:
