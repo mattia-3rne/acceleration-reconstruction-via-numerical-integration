@@ -1,6 +1,6 @@
 # Acceleration Reconstruction via Numerical Integration
 
-## 📊 Project Overview
+## Project Overview
 
 The goal is to reconstruct the velocity and position profiles of a moving object based on raw acceleration data collected via Phyphox. This involves double numerical integration of the accelerometer signal and applying a smoothing algorithm due to sensor noise.
 
@@ -16,7 +16,7 @@ Since this involves integrating time-series data, we track the kinematic state e
 
 ---
 
-## ⚙️ Reconstruction Methodology
+## Reconstruction Methodology
 
 This project employs a physics-based approach to reconstruct kinematic motion from noisy sensor data. The analysis proceeds in sequential steps: signal smoothing followed by double numerical integration.
 
@@ -56,7 +56,7 @@ $$
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.8+
@@ -93,7 +93,7 @@ $$
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 * `acceleration_data.csv`: The raw data exported from the Phyphox app.
 * `main.ipynb`: The main analysis notebook.
